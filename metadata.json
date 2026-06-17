@@ -1,0 +1,6 @@
+{
+  "name": "Chicken Dictionary",
+  "description": "An interactive, beautifully illustrated guide to chicken breeds and their characteristics, including a fun personality quiz.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
